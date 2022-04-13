@@ -1,0 +1,81 @@
+body {
+	background: url(https://st4.depositphotos.com/1036970/40851/v/950/depositphotos_408516930-stock-illustration-mathematical-formulas-drawn-hand-background.jpg?forcejpeg=trueм);
+	font-family: sans-serif;
+}
+
+.form {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0, 0, 0, .8);
+}
+
+.form h1 {
+	margin: 30px 100px;
+	padding: 0px;
+		text-align: center;
+	font-transform: uppercase
+
+
+}
+
+.input-form {
+	margin:  15px 40px;
+	text-align: center;
+}
+
+.input-form input {
+
+	padding: 10px;
+	width: 100%;
+	color: #000;
+	font-size: 20px;
+	background: none;
+	border: 1px solid #fff;
+	box-sizing: border-box;
+
+}
+
+.inpun-form input[type="sumbit"] {
+	margin-top: 20px;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

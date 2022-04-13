@@ -1,0 +1,54 @@
+
+
+
+
+.qwerty {
+	font-size: 100px;
+	margin: 0px;
+	text-decoration: none;
+	position: absolute;
+    top:70%;
+    left:40%;
+    
+}
+
+a {
+	text-decoration: none;
+
+}
+
+#circle {
+	width: 100px;
+	height: 100px;
+	background: #FFFAFA;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#square {
+	width: 100px;
+	height: 100px;
+	background: black;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+.photo1 {
+   background-image: url(../img/brain.png);
+   -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+
+.TEXT {
+	font-size: 100px;
+	margin: 0px;
+	position: absolute;
+    top:30%;
+    left:10%;
+    background-color: #FFFAFA;
+
+}
